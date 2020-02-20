@@ -6,8 +6,8 @@ const Wrapper = styled.View`
 	justify-content: center;
 	align-items: center;
 	background-color: darkred;
-  margin-top:32px;
-  height: 60px;
+  padding-top:50px;
+  padding-bottom:12px;
 `
 
 const Title = styled.Text`

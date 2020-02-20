@@ -10,6 +10,7 @@ const ItemWrapper = styled.View`
     border-color: #eee;
     flex-direction:row;
     justify-content: space-between;
+    align-items:center;
 `
 
  export const ListItem = ({item, deleteItem}) => {
